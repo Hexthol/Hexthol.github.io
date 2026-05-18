@@ -28,6 +28,7 @@ latest_posts:
 I am Zichen Wang (王梓辰), a second year PhD student in Washington University in St. Louis advised by <a href="https://engineering.washu.edu/faculty/Chenyang-Lu.html" title="Chenyang">Dr. Chenyang Lu</a>. I am a member of AI for Health Institute. My research focuses on **Protein Language Model**, **Time-Series Data Modeling**, **Deep Learning**.
 
 ### Education
+
 <ul>
 <li>Ph.D. student in Computer Science and Engineering, 2024-Present.
     <ul>
