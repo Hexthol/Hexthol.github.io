@@ -278,8 +278,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wang] # last name and its variations (e.g., maiden name, name in other languages, etc.) used for identifying the publications of the author. The first item will be used as the default name displayed on the website.
+  first_name: [Zichen, Z.]
 
   style: apa
   locale: en
