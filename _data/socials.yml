@@ -1,7 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/My_Resume.pdf # path to your CV PDF file
 email: zichen.wang@wustl.edu # your email address
 github_username: Hexthol # your GitHub user name
 linkedin_username: zichen-wang-1b8165194 # your LinkedIn user name (the part after linkedin.com/in/)
